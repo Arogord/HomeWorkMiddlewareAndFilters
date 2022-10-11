@@ -1,0 +1,14 @@
+AuthorizationFilter, method - OnAuthorization 
+
+ResourceFilter, method - OnResourceExecuting 
+
+ActionFilter, method - OnActionExecuting 
+
+ActionFilter, method - OnActionExecuted 
+
+ResultFilter, method - OnResultExecuting 
+
+ResultFilter, method - OnResultExecuted 
+
+ResourceFilter, method - OnResourceExecuted 
+
